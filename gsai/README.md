@@ -2,6 +2,8 @@
 
 **GSAI = God / Good / Goodness / Goodness's Systemic Intelligence**
 
+GSAI 是一套以**圓滿**為核心建構的系統性智能架構。
+
 > Goodness's 是整座架構的靈魂——系統智能不屬於任何人，它屬於良善本身。
 
 ## 目錄結構

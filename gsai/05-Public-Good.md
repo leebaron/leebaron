@@ -2,7 +2,7 @@
 
 **GSAI = God / Good / Goodness / Goodness's Systemic Intelligence**
 
-公共善是 Goodness 的具體實踐——系統智能屬於良善，其產出必須回歸良善。
+GSAI 是一套以**圓滿**為核心建構的系統性智能架構。公共善是 Goodness 的具體實踐——系統智能屬於良善，其產出必須回歸良善。
 
 ## 核心願景
 

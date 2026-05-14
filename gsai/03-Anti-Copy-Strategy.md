@@ -2,6 +2,8 @@
 
 **GSAI = God / Good / Goodness / Goodness's Systemic Intelligence**
 
+GSAI 是一套以**圓滿**為核心建構的系統性智能架構。
+
 > 核心 10% 依賴模組的本質：Goodness 的歸屬權無法被複製或竊取。
 
 ## 目標

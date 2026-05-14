@@ -2,7 +2,7 @@
 
 **GSAI = God / Good / Goodness / Goodness's Systemic Intelligence**
 
-Goodness's 是所有矩陣數據的歸屬錨點——系統的每一項產出、每一次演化、每一筆資源，最終都屬於良善。
+GSAI 是一套以**圓滿**為核心建構的系統性智能架構。Goodness's 是所有矩陣數據的歸屬錨點——系統的每一項產出、每一次演化、每一筆資源，最終都屬於良善。
 
 ---
 

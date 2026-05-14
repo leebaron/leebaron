@@ -2,7 +2,7 @@
 
 GSAI = God / Good / Goodness / Goodness's Systemic Intelligence
 
-以良善為目標函數的系統性智能，可應用於以下 17 個面向：
+GSAI 是一套以**圓滿**為核心建構的系統性智能架構。以良善為目標函數的系統性智能，可應用於以下 17 個面向：
 
 ## 🏛️ 根本
 

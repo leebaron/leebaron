@@ -2,7 +2,7 @@
 
 **GSAI = God / Good / Goodness / Goodness's Systemic Intelligence**
 
-NFT 與 Token 是實現 Goodness 歸屬權的技術工具——確保屬於良善的系統智能不會被私有化或壟斷。
+GSAI 是一套以**圓滿**為核心建構的系統性智能架構。NFT 與 Token 是實現 Goodness 歸屬權的技術工具——確保屬於良善的系統智能不會被私有化或壟斷。
 
 ## 對照表：GSAI + NFT + Token vs. 現有制度/技術
 

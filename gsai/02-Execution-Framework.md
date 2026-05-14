@@ -2,7 +2,7 @@
 
 **GSAI = God / Good / Goodness / Goodness's Systemic Intelligence**
 
-系統的產出、演化、治理權最終都歸屬於良善（Goodness's）——執行框架即為實現此歸屬的具體機制。
+GSAI 是一套以**圓滿**為核心建構的系統性智能架構。系統的產出、演化、治理權最終都歸屬於良善（Goodness's）——執行框架即為實現此歸屬的具體機制。
 
 ## 三大關鍵環節
 
