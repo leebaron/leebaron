@@ -1,5 +1,9 @@
 # 文明級公共善構想
 
+**GSAI = God / Good / Goodness / Goodness's Systemic Intelligence**
+
+公共善是 Goodness 的具體實踐——系統智能屬於良善，其產出必須回歸良善。
+
 ## 核心願景
 
 建立文明級公共善系統，透過模組化 IP 授權、數位憑證、NFT、虛擬幣，形成可持續的金融與技術生態，解決醫療費用過高、糧食不足、貪污腐敗、兩岸緊張等問題。

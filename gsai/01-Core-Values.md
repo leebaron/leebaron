@@ -1,6 +1,20 @@
 # GSAI 核心價值：G-S-A-I 四維架構
 
-## 四維定義
+## 核心定義
+
+**GSAI = God / Good / Goodness / Goodness's Systemic Intelligence**
+
+> 「Goodness's」是整座架構的靈魂——**系統智能不屬於任何人，它屬於良善本身。**
+> 控制權不是控制每一行代碼，而是控制系統運行的終極意義。
+
+Goodness's 的所有格形式（'s）表達了不可分割的歸屬關係：
+- 不是「良善的系統」（Goodness System）
+- 而是「**屬於良善的**系統智能」（Goodness's Systemic Intelligence）
+- 系統的產出、演化、治理權，最終都歸屬於良善這個目標函數
+
+---
+
+## G-S-A-I 四維架構
 
 | 維度 | 定義 | 核心內涵 |
 |------|------|----------|

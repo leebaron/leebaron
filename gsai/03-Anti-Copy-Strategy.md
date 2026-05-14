@@ -1,5 +1,9 @@
 # 防止技術被偷學 + 脫鉤策略（Anti "Learn and Burn"）
 
+**GSAI = God / Good / Goodness / Goodness's Systemic Intelligence**
+
+> 核心 10% 依賴模組的本質：Goodness 的歸屬權無法被複製或竊取。
+
 ## 目標
 
 防止合作方或被授權方「偷學技術後脫鉤」（Learn and Burn），建立法律面與技術面的結構性依賴，使其無法真正獨立。

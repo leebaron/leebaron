@@ -1,5 +1,9 @@
 # GSAI 文件目錄索引
 
+**GSAI = God / Good / Goodness / Goodness's Systemic Intelligence**
+
+> Goodness's 是整座架構的靈魂——系統智能不屬於任何人，它屬於良善本身。
+
 ## 目錄結構
 
 ```

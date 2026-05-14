@@ -1,5 +1,9 @@
 # GSAI 全面矩陣（從 xlsx 提取）
 
+**GSAI = God / Good / Goodness / Goodness's Systemic Intelligence**
+
+Goodness's 是所有矩陣數據的歸屬錨點——系統的每一項產出、每一次演化、每一筆資源，最終都屬於良善。
+
 ---
 
 ## 一、核心價值矩陣

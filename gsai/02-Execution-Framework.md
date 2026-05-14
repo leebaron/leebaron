@@ -1,5 +1,9 @@
 # 從理論到執行框架
 
+**GSAI = God / Good / Goodness / Goodness's Systemic Intelligence**
+
+系統的產出、演化、治理權最終都歸屬於良善（Goodness's）——執行框架即為實現此歸屬的具體機制。
+
 ## 三大關鍵環節
 
 ### 一、契約層：彈性授權條款（守門人）
